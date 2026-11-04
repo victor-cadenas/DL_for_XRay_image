@@ -1,0 +1,328 @@
+
+Iteración 1/10
+------------------------------
+	Pérdida: 0.346947  [    0/ 4099]
+	Pérdida: 0.368492  [  320/ 4099]
+	Pérdida: 0.429702  [  640/ 4099]
+	Pérdida: 0.354696  [  960/ 4099]
+	Pérdida: 0.246004  [ 1280/ 4099]
+	Pérdida: 0.302482  [ 1600/ 4099]
+	Pérdida: 0.231590  [ 1920/ 4099]
+	Pérdida: 0.397939  [ 2240/ 4099]
+	Pérdida: 0.346238  [ 2560/ 4099]
+	Pérdida: 0.328665  [ 2880/ 4099]
+	Pérdida: 0.300684  [ 3200/ 4099]
+	Pérdida: 0.355702  [ 3520/ 4099]
+	Pérdida: 0.293233  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 86.26%
+	Loss     : 0.3304
+	Precision: 0.8657
+	Recall   : 0.9617
+	F1-score : 0.9112
+	F2-score : 0.9408
+
+	Validación:
+	Accuracy : 89.29%
+	Loss     : 0.2974
+	Precision: 0.9688
+	Recall   : 0.8803
+	F1-score : 0.9224
+	F2-score : 0.8967
+✔ Nuevo mejor modelo en epoch 1 (F2=0.8967)
+
+Iteración 2/10
+------------------------------
+	Pérdida: 0.293922  [    0/ 4099]
+	Pérdida: 0.187282  [  320/ 4099]
+	Pérdida: 0.238057  [  640/ 4099]
+	Pérdida: 0.317745  [  960/ 4099]
+	Pérdida: 0.213081  [ 1280/ 4099]
+	Pérdida: 0.210921  [ 1600/ 4099]
+	Pérdida: 0.361421  [ 1920/ 4099]
+	Pérdida: 0.463233  [ 2240/ 4099]
+	Pérdida: 0.194427  [ 2560/ 4099]
+	Pérdida: 0.381130  [ 2880/ 4099]
+	Pérdida: 0.181824  [ 3200/ 4099]
+	Pérdida: 0.262608  [ 3520/ 4099]
+	Pérdida: 0.197032  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 89.12%
+	Loss     : 0.2756
+	Precision: 0.8971
+	Recall   : 0.9617
+	F1-score : 0.9283
+	F2-score : 0.9480
+
+	Validación:
+	Accuracy : 89.86%
+	Loss     : 0.2725
+	Precision: 0.9740
+	Recall   : 0.8835
+	F1-score : 0.9265
+	F2-score : 0.9002
+✔ Nuevo mejor modelo en epoch 2 (F2=0.9002)
+
+Iteración 3/10
+------------------------------
+	Pérdida: 0.290024  [    0/ 4099]
+	Pérdida: 0.270861  [  320/ 4099]
+	Pérdida: 0.222399  [  640/ 4099]
+	Pérdida: 0.167841  [  960/ 4099]
+	Pérdida: 0.194756  [ 1280/ 4099]
+	Pérdida: 0.243855  [ 1600/ 4099]
+	Pérdida: 0.140044  [ 1920/ 4099]
+	Pérdida: 0.185472  [ 2240/ 4099]
+	Pérdida: 0.262897  [ 2560/ 4099]
+	Pérdida: 0.282622  [ 2880/ 4099]
+	Pérdida: 0.238159  [ 3200/ 4099]
+	Pérdida: 0.212360  [ 3520/ 4099]
+	Pérdida: 0.198329  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 90.56%
+	Loss     : 0.2448
+	Precision: 0.9116
+	Recall   : 0.9647
+	F1-score : 0.9374
+	F2-score : 0.9536
+
+	Validación:
+	Accuracy : 89.52%
+	Loss     : 0.2714
+	Precision: 0.9772
+	Recall   : 0.8756
+	F1-score : 0.9236
+	F2-score : 0.8942
+
+Iteración 4/10
+------------------------------
+	Pérdida: 0.347922  [    0/ 4099]
+	Pérdida: 0.314547  [  320/ 4099]
+	Pérdida: 0.147220  [  640/ 4099]
+	Pérdida: 0.150987  [  960/ 4099]
+	Pérdida: 0.302220  [ 1280/ 4099]
+	Pérdida: 0.175835  [ 1600/ 4099]
+	Pérdida: 0.148444  [ 1920/ 4099]
+	Pérdida: 0.271361  [ 2240/ 4099]
+	Pérdida: 0.252607  [ 2560/ 4099]
+	Pérdida: 0.206297  [ 2880/ 4099]
+	Pérdida: 0.254910  [ 3200/ 4099]
+	Pérdida: 0.130945  [ 3520/ 4099]
+	Pérdida: 0.312818  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 91.14%
+	Loss     : 0.2370
+	Precision: 0.9220
+	Recall   : 0.9604
+	F1-score : 0.9408
+	F2-score : 0.9524
+
+	Validación:
+	Accuracy : 90.66%
+	Loss     : 0.2558
+	Precision: 0.9775
+	Recall   : 0.8913
+	F1-score : 0.9325
+	F2-score : 0.9073
+✔ Nuevo mejor modelo en epoch 4 (F2=0.9073)
+
+Iteración 5/10
+------------------------------
+	Pérdida: 0.115889  [    0/ 4099]
+	Pérdida: 0.245861  [  320/ 4099]
+	Pérdida: 0.221643  [  640/ 4099]
+	Pérdida: 0.160962  [  960/ 4099]
+	Pérdida: 0.231570  [ 1280/ 4099]
+	Pérdida: 0.153785  [ 1600/ 4099]
+	Pérdida: 0.202357  [ 1920/ 4099]
+	Pérdida: 0.141904  [ 2240/ 4099]
+	Pérdida: 0.194584  [ 2560/ 4099]
+	Pérdida: 0.282506  [ 2880/ 4099]
+	Pérdida: 0.163906  [ 3200/ 4099]
+	Pérdida: 0.156804  [ 3520/ 4099]
+	Pérdida: 0.303582  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 91.63%
+	Loss     : 0.2230
+	Precision: 0.9271
+	Recall   : 0.9614
+	F1-score : 0.9439
+	F2-score : 0.9543
+
+	Validación:
+	Accuracy : 93.17%
+	Loss     : 0.1845
+	Precision: 0.9615
+	Recall   : 0.9433
+	F1-score : 0.9523
+	F2-score : 0.9469
+✔ Nuevo mejor modelo en epoch 5 (F2=0.9469)
+
+Iteración 6/10
+------------------------------
+	Pérdida: 0.237768  [    0/ 4099]
+	Pérdida: 0.278872  [  320/ 4099]
+	Pérdida: 0.148381  [  640/ 4099]
+	Pérdida: 0.208929  [  960/ 4099]
+	Pérdida: 0.218792  [ 1280/ 4099]
+	Pérdida: 0.155159  [ 1600/ 4099]
+	Pérdida: 0.124393  [ 1920/ 4099]
+	Pérdida: 0.314903  [ 2240/ 4099]
+	Pérdida: 0.108634  [ 2560/ 4099]
+	Pérdida: 0.223669  [ 2880/ 4099]
+	Pérdida: 0.424246  [ 3200/ 4099]
+	Pérdida: 0.158864  [ 3520/ 4099]
+	Pérdida: 0.195473  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 91.92%
+	Loss     : 0.2216
+	Precision: 0.9307
+	Recall   : 0.9614
+	F1-score : 0.9458
+	F2-score : 0.9551
+
+	Validación:
+	Accuracy : 93.62%
+	Loss     : 0.1776
+	Precision: 0.9603
+	Recall   : 0.9512
+	F1-score : 0.9557
+	F2-score : 0.9530
+✔ Nuevo mejor modelo en epoch 6 (F2=0.9530)
+
+Iteración 7/10
+------------------------------
+	Pérdida: 0.136572  [    0/ 4099]
+	Pérdida: 0.150626  [  320/ 4099]
+	Pérdida: 0.307574  [  640/ 4099]
+	Pérdida: 0.142413  [  960/ 4099]
+	Pérdida: 0.195874  [ 1280/ 4099]
+	Pérdida: 0.344756  [ 1600/ 4099]
+	Pérdida: 0.186473  [ 1920/ 4099]
+	Pérdida: 0.145952  [ 2240/ 4099]
+	Pérdida: 0.372894  [ 2560/ 4099]
+	Pérdida: 0.199280  [ 2880/ 4099]
+	Pérdida: 0.269142  [ 3200/ 4099]
+	Pérdida: 0.280597  [ 3520/ 4099]
+	Pérdida: 0.154017  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 91.61%
+	Loss     : 0.2123
+	Precision: 0.9318
+	Recall   : 0.9554
+	F1-score : 0.9434
+	F2-score : 0.9506
+
+	Validación:
+	Accuracy : 93.85%
+	Loss     : 0.1722
+	Precision: 0.9589
+	Recall   : 0.9559
+	F1-score : 0.9574
+	F2-score : 0.9565
+✔ Nuevo mejor modelo en epoch 7 (F2=0.9565)
+
+Iteración 8/10
+------------------------------
+	Pérdida: 0.219388  [    0/ 4099]
+	Pérdida: 0.232197  [  320/ 4099]
+	Pérdida: 0.141998  [  640/ 4099]
+	Pérdida: 0.218331  [  960/ 4099]
+	Pérdida: 0.111988  [ 1280/ 4099]
+	Pérdida: 0.308650  [ 1600/ 4099]
+	Pérdida: 0.114137  [ 1920/ 4099]
+	Pérdida: 0.198768  [ 2240/ 4099]
+	Pérdida: 0.124596  [ 2560/ 4099]
+	Pérdida: 0.174001  [ 2880/ 4099]
+	Pérdida: 0.128905  [ 3200/ 4099]
+	Pérdida: 0.209406  [ 3520/ 4099]
+	Pérdida: 0.245124  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 92.24%
+	Loss     : 0.2057
+	Precision: 0.9349
+	Recall   : 0.9610
+	F1-score : 0.9478
+	F2-score : 0.9557
+
+	Validación:
+	Accuracy : 93.62%
+	Loss     : 0.1764
+	Precision: 0.9662
+	Recall   : 0.9449
+	F1-score : 0.9554
+	F2-score : 0.9491
+
+Iteración 9/10
+------------------------------
+	Pérdida: 0.142188  [    0/ 4099]
+	Pérdida: 0.248638  [  320/ 4099]
+	Pérdida: 0.233659  [  640/ 4099]
+	Pérdida: 0.170296  [  960/ 4099]
+	Pérdida: 0.149557  [ 1280/ 4099]
+	Pérdida: 0.187136  [ 1600/ 4099]
+	Pérdida: 0.127122  [ 1920/ 4099]
+	Pérdida: 0.208107  [ 2240/ 4099]
+	Pérdida: 0.229576  [ 2560/ 4099]
+	Pérdida: 0.168025  [ 2880/ 4099]
+	Pérdida: 0.141532  [ 3200/ 4099]
+	Pérdida: 0.136897  [ 3520/ 4099]
+	Pérdida: 0.353117  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 92.36%
+	Loss     : 0.2080
+	Precision: 0.9361
+	Recall   : 0.9614
+	F1-score : 0.9486
+	F2-score : 0.9562
+
+	Validación:
+	Accuracy : 94.31%
+	Loss     : 0.1697
+	Precision: 0.9650
+	Recall   : 0.9559
+	F1-score : 0.9604
+	F2-score : 0.9577
+✔ Nuevo mejor modelo en epoch 9 (F2=0.9577)
+
+Iteración 10/10
+------------------------------
+	Pérdida: 0.201259  [    0/ 4099]
+	Pérdida: 0.169237  [  320/ 4099]
+	Pérdida: 0.164825  [  640/ 4099]
+	Pérdida: 0.166020  [  960/ 4099]
+	Pérdida: 0.158566  [ 1280/ 4099]
+	Pérdida: 0.170242  [ 1600/ 4099]
+	Pérdida: 0.147378  [ 1920/ 4099]
+	Pérdida: 0.166050  [ 2240/ 4099]
+	Pérdida: 0.252961  [ 2560/ 4099]
+	Pérdida: 0.221248  [ 2880/ 4099]
+	Pérdida: 0.149251  [ 3200/ 4099]
+	Pérdida: 0.183373  [ 3520/ 4099]
+	Pérdida: 0.189461  [ 3840/ 4099]
+
+	Entrenamiento:
+	Accuracy : 92.44%
+	Loss     : 0.1978
+	Precision: 0.9404
+	Recall   : 0.9574
+	F1-score : 0.9488
+	F2-score : 0.9539
+
+	Validación:
+	Accuracy : 94.31%
+	Loss     : 0.1653
+	Precision: 0.9606
+	Recall   : 0.9606
+	F1-score : 0.9606
+	F2-score : 0.9606
+✔ Nuevo mejor modelo en epoch 10 (F2=0.9606)
